@@ -10,4 +10,3 @@ I used vanilla JavaScript to give to give this game its features. The Math.rando
 
 ## Optimizations
 I would add a feature to reset the game when someone reaches 10 points.
-# Rock-Paper-Scissors
